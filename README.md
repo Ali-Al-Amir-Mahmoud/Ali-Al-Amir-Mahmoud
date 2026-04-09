@@ -21,8 +21,3 @@ I use professional tools to ensure code quality and accelerate my learning:
 
 ---
 
-### 📊 GitHub Stats
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-Al-Amir-Mahmoud&show_icons=true&theme=radical)
-
----
-
